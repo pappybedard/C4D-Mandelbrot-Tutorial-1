@@ -2,4 +2,4 @@
 Project file and tex for Pappy's Tutorials (Mandelbrot Set Rig)
 
 This is the final project file for the Pappy's Tutorials presentation called "Cinema 4D Tutorial - Mandelbrot Set Rig"
-I have also included the .jpg file I used for the Xpresso tag icon
+I have also included the .jpg file I used for the Xpresso tag icon, put the tex directory in the same folder as the project.
